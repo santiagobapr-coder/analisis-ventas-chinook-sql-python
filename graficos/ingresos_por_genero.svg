@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="330" viewBox="0 0 640 330" font-family="Arial,sans-serif" font-size="12">
+<rect width="640" height="330" fill="#fff"/>
+<text x="16" y="28" font-size="15" font-weight="bold" fill="#222">Ingresos por género (top 10, USD)</text>
+<text x="142" y="65" text-anchor="end" fill="#333">Rock</text>
+<rect x="150" y="53" width="420.0" height="18" fill="#2a6f97"/>
+<text x="576.0" y="66" fill="#333">826.65</text>
+<text x="142" y="91" text-anchor="end" fill="#333">Latin</text>
+<rect x="150" y="79" width="194.2" height="18" fill="#2a6f97"/>
+<text x="350.2" y="92" fill="#333">382.14</text>
+<text x="142" y="117" text-anchor="end" fill="#333">Metal</text>
+<rect x="150" y="105" width="132.8" height="18" fill="#2a6f97"/>
+<text x="288.8" y="118" fill="#333">261.36</text>
+<text x="142" y="143" text-anchor="end" fill="#333">Alternative &amp; Punk</text>
+<rect x="150" y="131" width="122.7" height="18" fill="#2a6f97"/>
+<text x="278.7" y="144" fill="#333">241.56</text>
+<text x="142" y="169" text-anchor="end" fill="#333">TV Shows</text>
+<rect x="150" y="157" width="47.5" height="18" fill="#2a6f97"/>
+<text x="203.5" y="170" fill="#333">93.53</text>
+<text x="142" y="195" text-anchor="end" fill="#333">Jazz</text>
+<rect x="150" y="183" width="40.2" height="18" fill="#2a6f97"/>
+<text x="196.2" y="196" fill="#333">79.20</text>
+<text x="142" y="221" text-anchor="end" fill="#333">Blues</text>
+<rect x="150" y="209" width="30.7" height="18" fill="#2a6f97"/>
+<text x="186.7" y="222" fill="#333">60.39</text>
+<text x="142" y="247" text-anchor="end" fill="#333">Drama</text>
+<rect x="150" y="235" width="29.3" height="18" fill="#2a6f97"/>
+<text x="185.3" y="248" fill="#333">57.71</text>
+<text x="142" y="273" text-anchor="end" fill="#333">Classical</text>
+<rect x="150" y="261" width="20.6" height="18" fill="#2a6f97"/>
+<text x="176.6" y="274" fill="#333">40.59</text>
+<text x="142" y="299" text-anchor="end" fill="#333">R&amp;B/Soul</text>
+<rect x="150" y="287" width="20.6" height="18" fill="#2a6f97"/>
+<text x="176.6" y="300" fill="#333">40.59</text>
+</svg>
