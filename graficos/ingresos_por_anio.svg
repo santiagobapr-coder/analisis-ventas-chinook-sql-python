@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="330" viewBox="0 0 640 330" font-family="Arial,sans-serif" font-size="12">
+<rect width="640" height="330" fill="#fff"/>
+<text x="16" y="28" font-size="15" font-weight="bold" fill="#222">Ingresos por año</text>
+<line x1="50" y1="280" x2="630" y2="280" stroke="#999"/>
+<rect x="72.8" y="70.0" width="68.4" height="210.0" fill="#2a6f97"/>
+<text x="107.0" y="64.0" text-anchor="middle" fill="#333">449.46</text>
+<text x="107.0" y="298" text-anchor="middle" fill="#333">2021</text>
+<rect x="186.8" y="55.0" width="68.4" height="225.0" fill="#2a6f97"/>
+<text x="221.0" y="49.0" text-anchor="middle" fill="#333">481.45</text>
+<text x="221.0" y="298" text-anchor="middle" fill="#333">2022</text>
+<rect x="300.8" y="60.5" width="68.4" height="219.5" fill="#2a6f97"/>
+<text x="335.0" y="54.5" text-anchor="middle" fill="#333">469.58</text>
+<text x="335.0" y="298" text-anchor="middle" fill="#333">2023</text>
+<rect x="414.8" y="56.8" width="68.4" height="223.2" fill="#2a6f97"/>
+<text x="449.0" y="50.8" text-anchor="middle" fill="#333">477.53</text>
+<text x="449.0" y="298" text-anchor="middle" fill="#333">2024</text>
+<rect x="528.8" y="69.4" width="68.4" height="210.6" fill="#2a6f97"/>
+<text x="563.0" y="63.4" text-anchor="middle" fill="#333">450.58</text>
+<text x="563.0" y="298" text-anchor="middle" fill="#333">2025</text>
+<text x="320.0" y="322" text-anchor="middle" fill="#666">Ingresos (USD)</text></svg>
