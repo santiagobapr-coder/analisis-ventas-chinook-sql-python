@@ -95,3 +95,12 @@ Ingresos totales del periodo: **US$ 2.328,60**.
 ## Técnicas usadas
 
 `JOIN` de varias tablas · `GROUP BY` y agregaciones · CTE (`WITH`) · función de ventana (`LAG`) · subconsultas · `strftime` · lectura de SQL con pandas · gráficos con matplotlib.
+## Gráficos
+
+Gráficos en SVG dibujados a partir de los resultados de las consultas (carpeta `graficos/`). El script `analysis.py` genera además sus propias versiones en PNG.
+
+![Ingresos por año](graficos/ingresos_por_anio.svg)
+
+![Ingresos por género](graficos/ingresos_por_genero.svg)
+
+![Ingresos por país](graficos/ingresos_por_pais.svg)
